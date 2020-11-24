@@ -1,7 +1,7 @@
 # Download Datasets from Zindi!
 
 ```python
-import ZindiDownloader as zindi
+import ZindiDownloader.ZindiDataDownloader as zindi
 
 # this can be found by inspecting html element of dataset's webpage. CTRL + f
 url = 'https://api.zindi.africa/v1/competitions/sbtic-animal-classification/files/train_zebras.zip'
