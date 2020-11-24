@@ -1,1 +1,1 @@
-import ZindiDownloader.ZindiDataDownloader
+import ZindiDownloader
